@@ -1,0 +1,14 @@
+C:\Users\julet\Desktop\Workspace\JuletteSensay27\c# Apps\login_with_DB\login_with_DB\bin\Debug\Database1.mdf
+C:\Users\julet\Desktop\Workspace\JuletteSensay27\c# Apps\login_with_DB\login_with_DB\bin\Debug\Database1_log.ldf
+C:\Users\julet\Desktop\Workspace\JuletteSensay27\c# Apps\login_with_DB\login_with_DB\bin\Debug\login_with_DB.exe.config
+C:\Users\julet\Desktop\Workspace\JuletteSensay27\c# Apps\login_with_DB\login_with_DB\bin\Debug\login_with_DB.exe
+C:\Users\julet\Desktop\Workspace\JuletteSensay27\c# Apps\login_with_DB\login_with_DB\bin\Debug\login_with_DB.pdb
+C:\Users\julet\Desktop\Workspace\JuletteSensay27\c# Apps\login_with_DB\login_with_DB\obj\Debug\login_with_DB.csproj.AssemblyReference.cache
+C:\Users\julet\Desktop\Workspace\JuletteSensay27\c# Apps\login_with_DB\login_with_DB\obj\Debug\login_with_DB.csproj.SuggestedBindingRedirects.cache
+C:\Users\julet\Desktop\Workspace\JuletteSensay27\c# Apps\login_with_DB\login_with_DB\obj\Debug\login_with_DB.Form1.resources
+C:\Users\julet\Desktop\Workspace\JuletteSensay27\c# Apps\login_with_DB\login_with_DB\obj\Debug\login_with_DB.loggedInWindow.resources
+C:\Users\julet\Desktop\Workspace\JuletteSensay27\c# Apps\login_with_DB\login_with_DB\obj\Debug\login_with_DB.Properties.Resources.resources
+C:\Users\julet\Desktop\Workspace\JuletteSensay27\c# Apps\login_with_DB\login_with_DB\obj\Debug\login_with_DB.csproj.GenerateResource.cache
+C:\Users\julet\Desktop\Workspace\JuletteSensay27\c# Apps\login_with_DB\login_with_DB\obj\Debug\login_with_DB.csproj.CoreCompileInputs.cache
+C:\Users\julet\Desktop\Workspace\JuletteSensay27\c# Apps\login_with_DB\login_with_DB\obj\Debug\login_with_DB.exe
+C:\Users\julet\Desktop\Workspace\JuletteSensay27\c# Apps\login_with_DB\login_with_DB\obj\Debug\login_with_DB.pdb
